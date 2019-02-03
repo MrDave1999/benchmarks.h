@@ -29,5 +29,6 @@ int main(void)
 		array[8] = 8;
 		array[9] = 9;
 	end_bm(Arrays);
+	getchar();
 	return 0;
 }
